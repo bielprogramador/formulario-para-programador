@@ -27,7 +27,7 @@ Este projeto consiste em um formulário interativo em Java que coleta informaç�
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/projetos.git
+   git clone https://github.com/bielprogramador/projetos.git
    ```
 
 2. **Navegar até o Diretório do Projeto:**
